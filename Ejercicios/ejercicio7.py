@@ -12,6 +12,4 @@ if (num >= 10 and num <= 20):
     if es_primo:
         print ('El número es primo.')
     else:
-        ('El número no es primo.')    
-else: 
-    print('El número no es menor a 20')        
+        ('El número no es primo.')        
